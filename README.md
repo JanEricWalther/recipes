@@ -1,3 +1,4 @@
 # recipes
 
-[Dal](./dal.md)
+- [Dal](./dal.md)
+- [Sushi](./haso_maki.md)
