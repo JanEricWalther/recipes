@@ -1,5 +1,7 @@
 # chinesiche Dumpling, Potsticker
 
+![Dumpligs](./img/dumplings.jpg)
+
 **Zubereitungszeit**: 1h 30min
 
 ## Zutaten (32 Stück)
