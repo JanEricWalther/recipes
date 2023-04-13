@@ -2,3 +2,4 @@
 
 - [Dal](./dal.md)
 - [Sushi](./haso_maki.md)
+- [Dumplings](./dumplings.md)
