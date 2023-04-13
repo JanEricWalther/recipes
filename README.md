@@ -1,3 +1,3 @@
 # recipes
 
-(Dal)[./dal.md]
+[Dal](./dal.md)
