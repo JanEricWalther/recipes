@@ -16,7 +16,7 @@
 |            | Salz         |
 |            | Pfeffer      |
 
-Zubereitung
+## Zubereitung
 
 Den Käse reiben. Den gekochten Brokkoli grob mit einem Messer schneiden und mit dem Käse vermischen. Etwas salzen und kräftig pfeffern, einen Teelöffel Senf und einen Spritzer Zitronensaft untermischen. Nun die Rückseiten der Brote mit Butter bestreichen! Danach auch die Innenseiten leicht mit Butter bestreichen, die Käse-Brokkoli-Masse auf jeweils zwei Scheiben verteilen, eine Scheibe Brot darauflegen und andrücken. 
 
