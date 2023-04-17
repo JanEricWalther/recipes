@@ -6,25 +6,25 @@ Mein Snack der hat drei Ecken, drei Ecken hat mein Snack. Gemeint sind hier Onig
 
 **Zubereitungszeit**: 20 min
 
-## Zutaten
+## Zutaten (6 Stück)
 
 |               |                   |
 | ------------: | ----------------- |
-|         500 g | Sushi Reis        |
-|        1/2 TL | Salz              |
-|          2 EL | Reisessig         |
-|          1 EL | Zucker            |
-|          1 TL | Sesamöl           |
-|          1 TL | schwarzer Sesam   |
-|        250 ml | Wasser            |
-|       2 Blatt | Nori              |
+|         250 g | Sushi Reis        |
+|        1/4 TL | Salz              |
+|          1 EL | Reisessig         |
+|        1/2 EL | Zucker            |
+|        1/2 TL | Sesamöl           |
+|        1/2 TL | schwarzer Sesam   |
+|        125 ml | Wasser            |
+|     1/2 Blatt | Nori              |
 |               |                   |
-|           1/2 | Gurke             |
-|          3 EL | Frischkäse        |
-|          2 TL | Sesamöl           |
-|          2 TL | weiße Sesamkörner |
-| 1 Stück (1cm) | Ingwer            |
-|          1 TL | Soja Sauce        |
+|           1/4 | Gurke             |
+|        1.5 EL | Frischkäse        |
+|          1 TL | Sesamöl           |
+|          1 TL | weiße Sesamkörner |
+| 1 Stück       | Ingwer            |
+|        1/2 TL | Soja Sauce        |
 |               | Salz              |
 |               | Zucker            |
 |               | MSG               |
