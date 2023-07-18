@@ -1,4 +1,4 @@
-# Sushi Reis
+# Gärtner Kuchen
 
 ![Gärtner Kuchen](./img/gaertner_kuchen.png)
 

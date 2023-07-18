@@ -1,8 +1,8 @@
-# Rotes Linsen Dal
+# Veganes Thai Curry
 
 Vegetarisches Thai-Curry mit buntem Gemüse und cremiger Kokosmilch. Dazu passt Basmati-Reis.
 
-![Dal](./img/thai_curry.jpg)
+![Thai Curry](./img/thai_curry.jpg)
 
 ## Zutaten (4 Portionen)
 

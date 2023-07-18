@@ -1,6 +1,6 @@
 # Veganes Naan Brot
 
-![Dal](./img/naan.jpg)
+![Naan Brot](./img/naan.jpg)
 
 ## Zutaten (6 Stück)
 
