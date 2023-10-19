@@ -8,6 +8,7 @@
 - [Sushi](./haso_maki.md)
 - [Onigiri](./onigiri.md)
 - [Dumplings](./dumpling.md)
+- [Hiyashi Chuka - Ramen Bowl](./hiyashi_chuka.md) 
 
 ---
 
